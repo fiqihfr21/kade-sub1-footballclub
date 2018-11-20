@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FootballClub</string>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <string-array name="club_desc">
+        <item>Futbol Club Barcelona, known simply as Barcelona and colloquially as Barça, is a professional football club based in Barcelona, Catalonia, Spain.</item>
+        <item>Real Madrid Club de Fútbol, ​​commonly known as Real Madrid, is a professional football club based in Madrid, Spain. Founded in 1902 as Madrid Football Club, traditionally wears white cage costumes.</item>
+        <item>Fußball-Club Bayern München e.V., also known as FC Bayern Munich, FC Bayern Munich, or FC Bayern, is a German sports club based in Munich, Bavaria.</item>
+        <item>Manchester City Football Club (also known as Man City or The Citizens) is a professional football club from England that plays in the English Premier League.</item>
+        <item>Manchester United Football Club is a professional English football club based at Old Trafford, Greater Manchester, which plays in the English League.</item>
+        <item>Associazione Calcio Milan, often referred to as A.C. Milan or just Milan, is an Italian football club based in Milan, Lombardy, which plays in Serie A.</item>
+        <item>Arsenal Football Club (also known as Arsenal or the Gunners) is a professional English football club based in Holloway, London. was founded in 1886 with the name Dial Square.</item>
+    </string-array>
+</resources>
